@@ -1,0 +1,7 @@
+.price{
+    height: 150px;
+    width: 500px;
+    border: 1px black solid;
+    background-color: aliceblue;
+    display: flex;
+}
